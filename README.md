@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moshkito
+- 👋 Hi, it's me moshkito
 - 👀 I’m interested in lua & js
 - 🌱 I’m learning everyday new things
 - 📫 How to reach me ????
